@@ -1,4 +1,4 @@
-An IT student learning about programming and system design
+Master Engineer of Information Technologies
 
 <!--
 **Marina-Marinkovic/Marina-Marinkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
